@@ -15,7 +15,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>H5BD29F50</string>
+                <string>com.zhhuahui.epms</string>
                 <key>bundle-version</key>
                 <string>1.5.9</string>
                 <key>kind</key>
